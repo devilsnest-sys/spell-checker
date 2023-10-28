@@ -3,7 +3,9 @@
   margin: 60px auto;
   width: 255px;
 }
-
+.spell-checker{
+  padding-bottom: 100px;
+}
 .outer-eye {
   /*Positioning*/
   position: relative;
